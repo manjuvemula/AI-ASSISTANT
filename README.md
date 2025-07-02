@@ -12,6 +12,7 @@ This project is a responsive and stylish AI chatbot interface built using HTML, 
 📏 Adjustable chat window (Minimize/Close options)
 
 #past your API key
+
 const API_KEY = "YOUR_API_KEY_HERE";
 
 Built With
